@@ -1,15 +1,15 @@
-package cn.itcast.springboot.controller;
+package cn.yin.springboot.controller;
 
 import java.util.List;
 
 import javax.annotation.Resource;
 
+import cn.yin.springboot.service.UserService;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import cn.itcast.springboot.pojo.User;
-import cn.itcast.springboot.service.UserService;
+import cn.yin.springboot.pojo.User;
 
 @RestController
 public class UserController {

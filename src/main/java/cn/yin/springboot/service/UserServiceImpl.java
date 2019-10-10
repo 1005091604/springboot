@@ -1,13 +1,13 @@
-package cn.itcast.springboot.service;
+package cn.yin.springboot.service;
 
 import java.util.List;
 
 import javax.annotation.Resource;
 
+import cn.yin.springboot.mapper.UserMapper;
 import org.springframework.stereotype.Service;
 
-import cn.itcast.springboot.mapper.UserMapper;
-import cn.itcast.springboot.pojo.User;
+import cn.yin.springboot.pojo.User;
 
 @Service
 public class UserServiceImpl implements UserService {

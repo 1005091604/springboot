@@ -1,8 +1,8 @@
-package cn.itcast.springboot.service;
+package cn.yin.springboot.service;
 
 import java.util.List;
 
-import cn.itcast.springboot.pojo.User;
+import cn.yin.springboot.pojo.User;
 
 public interface UserService {
 

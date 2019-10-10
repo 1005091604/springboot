@@ -1,4 +1,4 @@
-package cn.itcast.springboot;
+package cn.yin.springboot;
 
 import org.springframework.boot.Banner.Mode;
 import org.springframework.boot.SpringApplication;

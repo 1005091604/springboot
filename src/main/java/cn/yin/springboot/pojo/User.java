@@ -1,4 +1,4 @@
-package cn.itcast.springboot.pojo;
+package cn.yin.springboot.pojo;
 
 public class User {
 

@@ -1,4 +1,4 @@
-package cn.itcast.springboot.controller;
+package cn.yin.springboot.controller;
 
 import java.util.List;
 
@@ -8,8 +8,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import cn.itcast.springboot.pojo.User;
-import cn.itcast.springboot.service.UserService;
+import cn.yin.springboot.pojo.User;
+import cn.yin.springboot.service.UserService;
 
 @Controller
 public class FmController {

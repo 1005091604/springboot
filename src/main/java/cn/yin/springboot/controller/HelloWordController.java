@@ -1,4 +1,4 @@
-package cn.itcast.springboot.controller;
+package cn.yin.springboot.controller;
 
 import javax.annotation.Resource;
 

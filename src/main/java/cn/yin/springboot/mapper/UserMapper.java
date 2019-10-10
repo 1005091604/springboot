@@ -1,4 +1,4 @@
-package cn.itcast.springboot.mapper;
+package cn.yin.springboot.mapper;
 
 import java.util.List;
 
@@ -7,7 +7,7 @@ import org.apache.ibatis.annotations.Result;
 import org.apache.ibatis.annotations.Results;
 import org.apache.ibatis.annotations.Select;
 
-import cn.itcast.springboot.pojo.User;
+import cn.yin.springboot.pojo.User;
 
 @Mapper
 public interface UserMapper {
